@@ -26,6 +26,7 @@
 <div>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ### Database
@@ -58,7 +59,3 @@
 - Contribute to open source
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ggaaraujodev&show_icons=true&theme=dark&hide_border=true"/>
-</div>
