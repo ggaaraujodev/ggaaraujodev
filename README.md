@@ -3,46 +3,44 @@
 </div>
 
 <p align="center">
-  Backend-focused Web Development student from Brazil.
-  <br>
-  Learning Java, APIs, and scalable systems.
+  Java ☕ Spring 🌱 Backend ⚙️ APIs 🔌
 </p>
 
 ---
 
-## About me
+## 👨‍💻 About me
 
-- Web Development student (IFPE)
-- Focused on backend development
-- Learning Java and Spring Boot
-- Interested in system architecture and APIs
-- Building real-world backend projects
+- 🎓 Web Development student (IFPE)  
+- ⚙️ Focused on backend development  
+- ☕ Learning Java and Spring Boot  
+- 🧠 Interested in APIs and system architecture  
+- 🚀 Building backend projects  
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-### Backend
+**Backend**  
 <div>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-### Database
+**Database**  
 <div>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-### Frontend
+**Frontend**  
 <div>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
-### Tools
+**Tools**  
 <div>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
@@ -51,11 +49,11 @@
 
 ---
 
-## Goals
+## 🎯 Goals
 
-- Become a professional backend developer
-- Master Java and Spring Boot
-- Build scalable backend systems
+- Become a professional backend developer  
+- Master Java and Spring Boot  
+- Build scalable systems  
 - Contribute to open source
 
 ---
