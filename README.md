@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About me
 
-- 🎓 Web Development student (IFPE)  
+- 🎓 Technologist Degree in Internet Systems –        Instituto Federal de Pernambuco
 - ⚙️ Focused on backend development  
 - ☕ Learning Java and Spring Boot  
 - 🧠 Interested in APIs and system architecture  
